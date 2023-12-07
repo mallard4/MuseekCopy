@@ -1,7 +1,2 @@
 # Museek
-
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+This is a copy of the original Museek code so feel free to make changes as you see fit!
