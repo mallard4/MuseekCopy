@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>148065457630-5b599lv0egqgkmec5mu73s4qb7g6ptml.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.148065457630-5b599lv0egqgkmec5mu73s4qb7g6ptml</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>148065457630-jvupjongh13kusn89g1mkt1ef87hvb9e.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBY17Bl5DzNo8J0fyr4PvtR3kEqXcewA6c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>148065457630</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.UnknownProductions.museek</string>
+	<key>PROJECT_ID</key>
+	<string>museek-8bcf7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>museek-8bcf7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:148065457630:ios:7149f4dee97b6a0caff94f</string>
+</dict>
+</plist>

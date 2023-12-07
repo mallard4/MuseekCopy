@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "148065457630",
+    "project_id": "museek-8bcf7",
+    "storage_bucket": "museek-8bcf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148065457630:android:1f6c4e41000a359caff94f",
+        "android_client_info": {
+          "package_name": "com.UnknownProductions.museek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148065457630-jvupjongh13kusn89g1mkt1ef87hvb9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.UnknownProductions.museek",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "148065457630-2u1mo129k55r5mtojdtb84uiim8q7ga9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxBmf_RRE-0Ja-mZJB2cW0jy2cUcnklxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148065457630-2u1mo129k55r5mtojdtb84uiim8q7ga9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148065457630-5b599lv0egqgkmec5mu73s4qb7g6ptml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.UnknownProductions.museek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
